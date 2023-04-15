@@ -6,3 +6,6 @@
 
 2) Simple model file
 - train the custom model
+
+3) Custom model folder
+- saved the parameters have been trained and validation
