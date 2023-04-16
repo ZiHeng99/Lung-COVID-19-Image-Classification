@@ -6,6 +6,8 @@
 
 2) Simple model file
 - train the custom model
+- the parameters have been trained and validation saved in Custom models folder
 
-3) Custom model folder
-- saved the parameters have been trained and validation
+3) Pretrain model file
+- train the model using efficientnet_b0
+- the parameters have been trained saved in Custom model folder efficientnet models folder
