@@ -4,10 +4,10 @@
 - Download the dataset images from kaggle
 - Split the dataset into train, validation and test folder
 
-2) Simple model file
+2) Classification COVID-19 model file
 - train the custom model
-- the parameters have been trained and validation saved in Custom models folder
+- the parameters after trained and validation will be saved in custom models folder
 
-3) Pretrain model file
-- train the model using efficientnet_b0
-- the parameters have been trained saved in Custom model folder efficientnet models folder
+3) App file
+- Using Visual Studio Code run
+- Download the saved_model.pth and paste to the correct directory
